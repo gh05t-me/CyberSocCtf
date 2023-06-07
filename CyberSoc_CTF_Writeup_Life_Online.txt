@@ -1,0 +1,56 @@
+# Life Online
+
+ * voteforme
+    James tweets about Barack Obama who belongs to the "Democratic Party".
+    FLAG=Democratic Party
+  
+ * growingup
+    James tweets about what3words and on his twitter bio he wrote his Birthplace and city using what3words
+    "///push.asking.barn" which is in "Yorkshire" according to Google search & Google Maps.
+    FLAG=Yorkshire
+   
+ * choochoo
+    James uploaded a picture of the "Cardiff" Railway Station on twitter. (Google Reverse Image Lookup)
+    FLAG=Cardiff
+   
+ * suntan
+    Look at James' followers and following
+    Sarah uploaded a picture of "Perth" on twitter. (Google Reverse Image Lookup)
+    FLAG=Perth
+    
+ * wagthetail
+    Sarah has Buster's favourite location's co-ordinates on her twitter bio. (Google Maps)
+    The location is Bridge St in "Brecon".
+    FLAG=Brecon
+    
+ * narcissism
+    Look at Sarah's followers and following
+    George tweeted that he has Encrypted his password to aW1hbWF6aW5nMTIz (Base64)
+    Decoding the Base64 String we got "imamazing123".
+    FLAG=imamazing123
+    
+ * proppedup
+    Look at persons George is following
+    Pearce uploaded picture of Goerge's desk on Twitter which has "Brown Surface with Silver Legs"
+    FLAG=Brown Silver
+    
+ * bluengreen
+    James has his twitter header_photo as bluengreen eyes with "icanseeyou" text.
+    FLAG=icanseeyou
+    
+ * clockingout
+    In one of his tweets, James mentions how it’s tough day of work after 8 long hours. This was posted at 4:02 pm, which means he started work at 8:00 am.
+    FLAG=2pm
+    
+ * meme
+    George uploaded a picture(meme) with the Software Access Code: "CTF3404X71"
+    FLAG=CTF3404X71
+    
+ * partytime
+    Pearce tweeted the party details and location on twitter. (Google Maps)
+    Using google maps we get the Bus number "57" to his party.
+    FLAG=57
+    
+ * leaveamessage
+    Looking at the tweet of Pearce about the party, we haven’t seen Sophjones77 so lets check that account.
+   So after searching for a while I found a previous write-up about this question. And yes Sophjones77 was the correct account but since it's suspended I can't solve that question.
